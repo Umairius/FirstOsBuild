@@ -1,2 +1,2 @@
-# FirstOsBuild
-Made my first Os
+First OS in C language
+
